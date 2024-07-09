@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.mensreaatruecrimepodcast" name="Mens Rea: A True Crime Podcast" version="1.0.0" provider-name="leopheard">
+  <requires>
+    <import addon="xbmc.python" version="3.00.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/>
+    <import addon="script.module.requests" version="1.1.0"/>
+    <import addon="script.module.routing" version="0.2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Mens Rea is the legal principle of intent that must be proved in a number of crimes, such as murder. It means literally, "guilty mind". Mens Rea Podcast explores the most notorious crimes from Ireland and the UK and the court cases that followed. Join your host, Sinead, every fortnight when a new case is discussed.</summary>
+    <description lang="en">Mens Rea is a fortnightly true crime podcast that discusses crime in Ireland and the UK. Mens Rea refers to the mental element of intent required to prove certain crimes have been committed…. like murder. Every two weeks, we delve into the most notorious crimes and examine the people involved, the investigation of the police and the court cases that followed.
+
+Mens Rea is researched, written and produced by your host, Sinead. In a former life she was a tour guide at a busy Irish landmark, and has spent far more years in University than is reasonable. She received her BA from Trinity College Dublin in 2009, and her MSc in Human Rights in 2012 from University College Dublin. She also holds a Diploma in Prof. Legal Studies.
+
+Above all else, Sinead is a true crime fanatic and a podcast addict. Join in the obsession and subscribe on your favourite podcast app now!</description>
+    <license>The MIT License (MIT)</license>
+    <forum></forum>
+    <email>leopheard@gmail.com</email>
+    <source>https://github.com/leopheard/MensReaATrueCrimePodcast</source>
+    <website>https://mensreapod.com/</website>
+        	<assets>
+			<platform>all</platform>
+			<asset>https://raw.githubusercontent.com/leopheard/repository.mensreaatruecrimepodcast/main/plugin.audio.mensreaatruecrimepodcast.zip</asset>
+			<icon>resources/media/icon.jpg</icon>
+			<fanart>resources/media/fanart.png</fanart>
+			<screenshot>resources/media/1.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
+		</assets>
+  </extension>
+</addon>
