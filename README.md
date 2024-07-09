@@ -1,6 +1,6 @@
-<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) addon for the podcasts from the <a href="https://mensreapod.com/">Mens Rea: A True Crime Podcast Intercept</a>.<br>
+<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) addon for the podcasts from the <a href="https://mensreapod.com/">Mens Rea: A True Crime Podcast</a>.<br>
 
-<img src="https://github.com/leopheard/mensrea/blob/master/resources/media/icon.jpg?raw=true" width="160" height="160" alt="Mens Rea"><br>
+<img src="https://github.com/leopheard/MensRea/blob/main/resources/media/icon.jpg?raw=true" width="160" height="160" alt="Mens Rea"><br>
 
 <a href="https://mensreapod.com/">Mens Rea: A True Crime Podcast</a> Mens Rea is the legal principle of intent that must be proved in a number of crimes, such as murder. It means literally, "guilty mind". Mens Rea Podcast explores the most notorious crimes from Ireland and the UK and the court cases that followed. Join your host, Sinead, every fortnight when a new case is discussed.
 
@@ -15,5 +15,6 @@ Above all else, Sinead is a true crime fanatic and a podcast addict. Join in the
 <b>^^^^ To install this addon ^^^^</b>, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the Code > '<a href="https://github.com/leopheard/MensRea/archive/refs/heads/master.zip">Download Zip</a>' button (on this page above) to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file. A repository to auto-update or install from is being worked on.<br>
 
 <br><a href="https://www.kodi.tv"><img src="https://github.com/leopheard/Audio-Podcasts/blob/master/resources/media/about--devices.jpg?raw=true"># MensRea
+# MensRea
 # MensRea
 # MensRea
